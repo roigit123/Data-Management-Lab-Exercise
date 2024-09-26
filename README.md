@@ -19,3 +19,9 @@
 - :trollface:
 - :kissing_cat:
 - :point_up:
+
+# Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
