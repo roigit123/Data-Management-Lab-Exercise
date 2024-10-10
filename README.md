@@ -30,3 +30,6 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Win-Shift-S (snipping tool)
+
+Lab 6
+[CLI commands](Docs/Cli.md)
