@@ -35,3 +35,5 @@ Lab 6
 [CLI commands](Docs/Cli.md)
 
 Lab 11 [SQL activity](Docs/BAYQUEN_LAB11.sql)
+
+Lab 12 [SQL activity](Docs/BAYQUEN_LAB12.sql)
